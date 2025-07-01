@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Desafio Super Trunfo\n");
     // Declaracao dos dados para as duas cartas
     char codigo1 [4], codigo2 [4];
     int populacao1, populacao2;
